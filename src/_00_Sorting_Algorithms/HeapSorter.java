@@ -68,6 +68,7 @@ public class HeapSorter extends Sorter {
         		display.updateDisplay();
         		heapSort(array, n, largest, display);
         		display.updateDisplay();
+        		//NOT WORKING NEED TO TROUBLE SHOOT OR COPY ACCTUALL CODE
         	}
         	
 	}
