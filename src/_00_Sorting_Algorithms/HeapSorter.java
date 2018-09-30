@@ -43,7 +43,7 @@ public class HeapSorter extends Sorter {
 		//2. create an integer called largest and set it equal to i
 		int largest = i;
 		//3. create an integer called l and set it equal to 2 * i + 1
-        int l = 2*i+i;
+        int l = 2*i+1;
 		//4. create an integer called r and set it equal to 2 * i + 2
         int r = 2*i+2;
         //5. if l is less than n 
